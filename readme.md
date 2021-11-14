@@ -10,7 +10,7 @@ My solution for the [**Web Calendar**][project] project on the learning platform
 
 ## Functionality
 
-An app that saves all your events to a local SQLite database. It employs a REST API powered by the Flask framework with
+An app that saves all your events to a local SQLite database. It employs a REST API powered by the Flask web framework with
 the packages Flask-SQLAlchemy and Flask-RESTful.
 
 ## Setup
