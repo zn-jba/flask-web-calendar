@@ -40,7 +40,7 @@ flask run
 
 ## Response format in JSON
 
-```
+```json
 {
   "id": 1,
   "event": "description of event",
